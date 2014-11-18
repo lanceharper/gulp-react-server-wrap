@@ -1,6 +1,5 @@
 require('node-jsx').install();
 
-var consolidate = require('consolidate');
 var gutil = require('gulp-util');
 var React = require('react');
 var through = require('through2');
